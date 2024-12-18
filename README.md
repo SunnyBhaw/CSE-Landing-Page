@@ -16,18 +16,25 @@ https://sunnybhaw.github.io/CSE-Landing-Page/
 - **CSS3:** Styling and animation.
 
 ## Installation
-1. Clone the repository:
-   https://github.com/SunnyBhaw/CSE-Landing-Page.git
-2. Navigate to the project folder:
-   cd CSE-Landing-Page
-3. Open index.html in your browser.
+```bash
+# Clone the repository
+git clone https://github.com/SunnyBhaw/CSE-Landing-Page.git
+
+# Navigate to the project folder
+cd CSE-Landing-Page
+
+# Open the project in your browser
+start index.html
+```
 
 ## Project Structure
-CSE-Landing-Page/
+```
+repository-name/
 │── index.html       # Main HTML file
 │── style.css        # CSS for styling and animations
 ├── img/             # Images folder (Logo, icons, etc.)
 └── README.md        # Project documentation
+```
 
 ## Usage
 - **Open the Landing Page:** Launch the index.html file.
